@@ -21,4 +21,3 @@ Conclusion
 
 Key take awaya
 
-# Disclaimer ; I have not completed doing this project
