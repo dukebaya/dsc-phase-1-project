@@ -21,10 +21,12 @@ This project analyzes the market trends of the movies produced to identify the m
  
  ## Results
  On analyzing the data, We can identify the best performing movie genres domestically and worldwide profitwise. We can also identify that movies have a combination of genres. Action and adventure are topping the list with profits of over 300million and a billion domestically and worldwide respectively. 
- ![Profitable Genres.png](./Images/Profitable Genres.png)
+ 
+ ![Profitable Genres](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Images/Profitable%20Genres.png)
  
  Further analysis of the most popular genres based on view votes also gives a similar picture. Combined Genres of Action and adventure top the list on popularity.
- ![Popular Genres.png](./Images/Popular Genres.png)
+ 
+ ![Popular Genres](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Images/Popular%20Genres.png)
  
  ## Conclusions
  
