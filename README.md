@@ -1,65 +1,46 @@
-# Phase 1 Project
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+## MOVIE STUDIO ANALYSIS
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+This project analyzes the market trends of the movies produced to identify the most popular and profitable genres to aid microsoft on the kind of movies to produce. The project uses data of a period of 10 years to identify the market trends.The descriptive analysis will enable microsoft to identify the lucrative niche in the market that would help aid brand visibility, market and sales.
 
-### Business Problem
+![Movie Studio.jpg](./Images/Movie Studio.jpg)
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+## Business Problem
 
-### The Data
+ The Microsoft movie studio has to identify the most profitable, most popular
+ movie genres to make. This is to enable decide the budget and other resources 
+ to allocate to the new movie studio for a successful project undertaking
+ 
+ ## Data
+ The data used in the analysis contains information of over 10 years about the movies created and their perfomance in the market. The data       provides important insights which can be used in decision making
+ 
+ ## Methods
+ 
+ This project uses descriptive analysis, including a description of trends over time. This provides a useful overview of how competitors are perfoming and how the stakeholder preferences 
+ 
+ ## Results
+ On analyzing the data, We can identify the best performing movie genres domestically and worldwide profitwise. We can also identify that movies have a combination of genres. Action and adventure are topping the list with profits of over 300million and a billion domestically and worldwide respectively. 
+ ![Profitable Genres.png](./Images/Profitable Genres.png)
+ 
+ Further analysis of the most popular genres based on view votes also gives a similar picture. Combined Genres of Action and adventure top the list on popularity.
+ ![Popular Genres.png](./Images/Popular Genres.png)
+ 
+ ## Conclusions
+ 
+ This analysis aids in identifying 2 conclusions that would help in setting up the movie studio.
 
-In the folder `zippedData` are movie datasets from:
+1. The targeted audience should be classified as either domestic or worldwide and different content targeted for each. Even though the popular and most profitable genres are closer for both audiences, some movies are more appealing to the domestic market than the international market.
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+2. Types of movies to create. We have identified that the most popular movies are also the most profitable. We have concluded that the current movies that would increase the brand visibilty and also likey to maximise profits are the movies that incorporate different genres. These Genres are Action and adventure.
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+# Next Steps
+Create Movies synonymous with top Genres to reach a bigger audience and strenghen the brand
+A further analysis of the studios and directors whose movies have been mostly successful. This would help identify the best script writers and actors.
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+For full analysis see the [Jupyter Notebook](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Project_Phase_1_Code.ipynb) or review this [Presentation](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Project%20Phase%201%20Code.ipynb%20-%20Colaboratory.pdf)
 
-## Deliverables
 
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+ 
+ 
+ 
