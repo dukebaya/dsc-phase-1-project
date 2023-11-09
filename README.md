@@ -4,7 +4,8 @@
 
 This project analyzes the market trends of the movies produced to identify the most popular and profitable genres to aid microsoft on the kind of movies to produce. The project uses data of a period of 10 years to identify the market trends.The descriptive analysis will enable microsoft to identify the lucrative niche in the market that would help aid brand visibility, market and sales.
 
-![Movie Studio](C:\Users\baya\Documents\Flatiron3\Phase1 Project\dsc-phase-1-project\Images\Movie Studio.jpg)
+![Movie Studio](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Images/Movie%20Studio.jpg)
+
 
 ## Business Problem
 
@@ -21,10 +22,12 @@ This project analyzes the market trends of the movies produced to identify the m
  
  ## Results
  On analyzing the data, We can identify the best performing movie genres domestically and worldwide profitwise. We can also identify that movies have a combination of genres. Action and adventure are topping the list with profits of over 300million and a billion domestically and worldwide respectively. 
- ![Profitable Genres.png](./Images/Profitable Genres.png)
+ 
+ ![Profitable Genres](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Images/Profitable%20Genres.png)
  
  Further analysis of the most popular genres based on view votes also gives a similar picture. Combined Genres of Action and adventure top the list on popularity.
- ![Popular Genres.png](./Images/Popular Genres.png)
+ 
+ ![Popular Genres](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Images/Popular%20Genres.png)
  
  ## Conclusions
  
