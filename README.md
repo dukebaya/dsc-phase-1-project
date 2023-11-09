@@ -4,7 +4,7 @@
 
 This project analyzes the market trends of the movies produced to identify the most popular and profitable genres to aid microsoft on the kind of movies to produce. The project uses data of a period of 10 years to identify the market trends.The descriptive analysis will enable microsoft to identify the lucrative niche in the market that would help aid brand visibility, market and sales.
 
-![Movie Studio.jpg](./Images/Movie Studio.jpg)
+![Movie Studio](https://github.com/dukebaya/dsc-phase-1-project/blob/master/Images/Movie%20Studio.jpg)
 
 ## Business Problem
 
